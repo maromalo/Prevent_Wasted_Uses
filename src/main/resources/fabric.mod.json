@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "ar_pwu",
   "provides": ["btw_pwu", "btw-pwu", "pwu", "prevent_wasted_uses"],
-  "version": "${version}",
+  "version": "${version}+BTW-${btw_version}",
   "name": "Prevent Wasted Uses",
   "description": "Prevents item damage if anything else would do just as well.",
   "authors": ["Abigail Read"],
