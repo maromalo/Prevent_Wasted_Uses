@@ -1,7 +1,7 @@
 package btw.community.abbyread.pwu.mixin;
 
 import btw.community.abbyread.pwu.util.TieredShovelDamage;
-import btw.item.items.ShovelItem;
+import api.item.items.ShovelItem;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
@@ -10,7 +10,7 @@ import net.minecraft.src.Block;
 import net.minecraft.src.EntityLivingBase;
 import net.minecraft.src.ItemStack;
 import net.minecraft.src.World;
-import btw.item.items.ToolItem;
+import api.item.items.ToolItem;
 import btw.community.abbyread.pwu.util.UsefulnessHelper;
 
 @Mixin(ToolItem.class)

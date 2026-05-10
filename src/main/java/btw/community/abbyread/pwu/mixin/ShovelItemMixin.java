@@ -1,6 +1,6 @@
 package btw.community.abbyread.pwu.mixin;
 
-import btw.item.items.ShovelItem;
+import api.item.items.ShovelItem;
 import net.minecraft.src.EnumToolMaterial;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

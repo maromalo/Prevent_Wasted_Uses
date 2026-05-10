@@ -1,7 +1,7 @@
 package btw.community.abbyread.pwu;
 
-import btw.AddonHandler;
-import btw.BTWAddon;
+import api.AddonHandler;
+import api.BTWAddon;
 
 public class PreventWastedUsesAddon extends BTWAddon {
     private static PreventWastedUsesAddon instance;
