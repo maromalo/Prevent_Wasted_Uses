@@ -1,6 +1,6 @@
 # Prevent Wasted Uses
 
-A quality-of-life addon for Better Than Wolves Community Edition 3.0.0 that prevents tools from taking durability damage when they're not actually useful.
+A quality-of-life addon for Better Than Wolves Community Edition 3.1.0 that prevents tools from taking durability damage when they're not actually useful.
 
 ## Overview
 
@@ -33,14 +33,14 @@ The addon checks if a tool or weapon is actually effective at breaking, harvesti
 
 ## Installation
 
-1. Install Better Than Wolves: Community Edition 3.0.0 + Legacy Fabric by following the instructions on the [wiki](https://wiki.btwce.com/view/3.0.0_Beta)
+1. Install Better Than Wolves: Community Edition 3.1.0 + Legacy Fabric by following the instructions on the [wiki](https://wiki.btwce.com/view/Installation)
 2. Download this addon's JAR file from the Releases page
 3. Place the addon JAR file in your `.minecraft/mods` folder
 4. Launch Minecraft. Tools will now only take damage when actually useful
 
 ## Compatibility
 
-- **Required**: Better Than Wolves CE 3.0.0
+- **Required**: Better Than Wolves CE 3.1.0
 - **Mod Loader**: Fabric/Mixin based (Packaged with the BTW Instance)
 - Designed to work with existing tools and potentially those added by addons
 - Works well with "Slightly Better Terrible Tools" and **should** work well with other tool-enhancement addons
