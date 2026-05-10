@@ -5,7 +5,7 @@
   "version": "${version}+BTW-${btw_version}",
   "name": "Prevent Wasted Uses",
   "description": "Prevents item damage if anything else would do just as well.",
-  "authors": ["Abigail Read"],
+  "authors": ["Abigail Read", "maromalo"],
   "contact": {
     "homepage": "https://github.com/AbbyRead/Prevent_Wasted_Uses",
     "sources": "https://github.com/AbbyRead/Prevent_Wasted_Uses",
